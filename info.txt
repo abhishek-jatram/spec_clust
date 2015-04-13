@@ -1,0 +1,5 @@
+install.packages()
+help(package="<pkgname>")
+
+Sys.setenv(http_proxy="http://068.341680:********@10.1.1.19:80")
+Sys.getenv("http_proxy")
